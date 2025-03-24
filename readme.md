@@ -1,2 +1,2 @@
 # New Readme
-## lets ad some more
+## lets add some more
